@@ -1,0 +1,72 @@
+@media screen and (max-width:480px){
+    .one{float:none}
+}
+body{
+    background-color: rgb(105, 197, 128);
+}
+h1{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.753);
+    margin-top: 3%;
+    text-shadow: 2px 2px 4px rgb(240, 236, 236);
+}
+h2{
+    text-shadow: 5px 5px 5px  rgb(92, 156, 135);
+    font-size: xx-large;
+}
+.one{
+    background-color: rgb(236, 250, 230);
+    color:black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    box-shadow:3px 3px  3px 5px rgb(161, 143, 143);
+    margin-top: 2%;
+    padding: 20px;
+    font-size: larger;
+   margin-bottom: 20px;
+    border-radius: 10px;
+}
+.two{
+    padding: 20px;
+}
+.three{
+    padding: 20px;
+   
+    
+}
+.four{
+    padding: 20px;
+   
+}
+.five{
+    padding-top: 5%;
+    padding-left: 5%;
+   display: flex;
+    justify-content: space-around ;
+}
+button{
+    background-color: rgba(6, 75, 11, 0.479);
+    color: white;
+    font-size: larger;
+    box-shadow:5px 5px  5px rgb(111, 170, 155);
+    border-color: rgb(111, 170, 155);
+    border-radius: 5px;
+}
+label{
+background-color:  rgba(6, 75, 11, 0.479);
+margin-right: 20px;
+box-shadow:5px 5px  5px rgb(111, 170, 155);
+width: 240px;
+display: inline-block;
+font-size: x-large;
+color: white;
+border-radius: 5px;
+}
+input{
+    box-shadow:5px 5px  5px  rgba(6, 75, 11, 0.479);
+    border-color: rgba(79, 148, 85, 0.479);
+    font-size: larger ;
+    margin-top: 20px;
+    border-radius: 5%;
+}
